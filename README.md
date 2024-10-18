@@ -9,4 +9,4 @@ deadline is every Sunday
 - [Bayesian optimisation of functions on graphs](https://github.com/AIML-K/GNN_Survey/issues/4)
 
 ### ~10/27
-- TBD
+- [Graph neural network-inspired kernels for gaussian processes in semi-supervised learning](https://github.com/AIML-K/GNN_Survey/issues/7)
