@@ -8,7 +8,6 @@
 - **Collaboration**:
   - Read and comment on each other's summaries by the following week.
   - Share thoughts, questions, or points of confusion.
-- **Paper Selection**: DM **@2nazero** if unsure which paper to read.
 
 ## Paper List
 
