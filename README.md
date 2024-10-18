@@ -1,7 +1,16 @@
-# GNN_Survey
-updating papers related to GNN
+# GNN Survey Weekly Paper Review
 
-deadline is every Sunday
+## Guidelines
+- **Deadline**: Submit paper summaries every Sunday.
+- **Content**:
+  - Upload a brief summary of the paper, key insights, and any relevant figures.
+  - Focus on the main message of the paper.
+- **Collaboration**:
+  - Read and comment on each other's summaries by the following week.
+  - Share thoughts, questions, or points of confusion.
+- **Paper Selection**: DM **@2nazero** if unsure which paper to read.
+
+## Paper List
 
 ### ~10/20
 - [Network Traffic Modeling and Prediction Using Graph Gaussian Processes](https://github.com/AIML-K/GNN_Survey/issues/2)
