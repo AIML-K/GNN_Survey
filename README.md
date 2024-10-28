@@ -18,8 +18,7 @@
 
 ### ~10/27
 - [Graph neural network-inspired kernels for gaussian processes in semi-supervised learning](https://github.com/AIML-K/GNN_Survey/issues/7)
-- [Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network](https://github.com/AIML-K/GNN_Survey/issues/11)
 - [Graph Neural Network Powered Bayesian Optimization for Large Molecular Spaces](https://github.com/AIML-K/GNN_Survey/issues/5)
 
 ### ~11/3
-- TBD
+- [Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network](https://github.com/AIML-K/GNN_Survey/issues/11)
