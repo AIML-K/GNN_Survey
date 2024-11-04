@@ -21,4 +21,11 @@
 - [Graph Neural Network Powered Bayesian Optimization for Large Molecular Spaces](https://github.com/AIML-K/GNN_Survey/issues/5)
 
 ### ~11/3
-- [Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network](https://github.com/AIML-K/GNN_Survey/issues/11)
+- https://github.com/AIML-K/GNN_Survey/issues/14
+- https://github.com/AIML-K/GNN_Survey/issues/15
+- https://github.com/AIML-K/GNN_Survey/issues/16
+- https://github.com/AIML-K/GNN_Survey/issues/17
+- https://github.com/AIML-K/GNN_Survey/issues/22
+
+### ~11/10
+- TBD
