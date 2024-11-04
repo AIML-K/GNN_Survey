@@ -22,7 +22,7 @@
 
 ### ~11/3
 - [Adversarial label-flipping attack and defense for graph neural networks](https://github.com/AIML-K/GNN_Survey/issues/14)
-- [Towards self-explainable graph neural network]https://github.com/AIML-K/GNN_Survey/issues/15)
+- [Towards self-explainable graph neural network](https://github.com/AIML-K/GNN_Survey/issues/15)
 - [Unified robust training for graph neural networks against label noise](https://github.com/AIML-K/GNN_Survey/issues/16)
 - [Nrgnn: Learning a label noise resistant graph neural network on sparsely and noisily labeled graphs](https://github.com/AIML-K/GNN_Survey/issues/17)
 - [Exact Combinatorial Optimization with Graph Convolutional Neural Network](https://github.com/AIML-K/GNN_Survey/issues/22)
