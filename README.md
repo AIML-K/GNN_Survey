@@ -28,4 +28,9 @@
 - [Exact Combinatorial Optimization with Graph Convolutional Neural Network](https://github.com/AIML-K/GNN_Survey/issues/22)
 
 ### ~11/10
-- TBD
+- [Strategies for pre-training graph neural networks](https://github.com/AIML-K/GNN_Survey/issues/19)
+- [Graph contrastive learning with augmentations](https://github.com/AIML-K/GNN_Survey/issues/20)
+- [Graph backdoor](https://github.com/AIML-K/GNN_Survey/issues/21)
+- _
+
+### ~11/17
