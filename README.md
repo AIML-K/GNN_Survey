@@ -31,6 +31,6 @@
 - [Strategies for pre-training graph neural networks](https://github.com/AIML-K/GNN_Survey/issues/19)
 - [Graph contrastive learning with augmentations](https://github.com/AIML-K/GNN_Survey/issues/20)
 - [Graph backdoor](https://github.com/AIML-K/GNN_Survey/issues/21)
-- _
+- [LightGCN](https://github.com/AIML-K/GNN_Survey/issues/23)
 
 ### ~11/17
