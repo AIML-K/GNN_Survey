@@ -34,3 +34,4 @@
 - [LightGCN](https://github.com/AIML-K/GNN_Survey/issues/23)
 
 ### ~11/17
+- [Generative-Contrastive Graph Learning for Recommendation](https://github.com/AIML-K/GNN_Survey/issues/37)
